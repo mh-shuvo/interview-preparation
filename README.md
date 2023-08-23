@@ -2,6 +2,7 @@
 
 ## 1. PHP
    - [OOP](./oop/index.md)
+   - PHP 8.x features
    - DTO
 ## 2. Laravel
    - [Version Changes](./laravel/release_notes.md)
