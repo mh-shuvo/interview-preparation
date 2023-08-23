@@ -1,0 +1,2 @@
+# What is the difference between Query Builder & Eloquent ORM
+Query Builder and Eloquent ORM are both powerful features in Laravel, but they serve different purposes. `Query Builder is more suitable for building custom SQL queries in a readable and structured way, while Eloquent ORM abstracts away database operations by working with PHP objects and relationships.` Your choice depends on the complexity of your application and your preferred style of interaction with the database.

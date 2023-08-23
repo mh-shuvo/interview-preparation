@@ -9,12 +9,12 @@
 
 ## Laravel 10.19
  - Word wrap string method. It splitis string within a string using character limit.
-    ` 
+    
 
         Str::wordWrap(string: $text, characters: 8); 
-    `
+    
  - Add percentage method to collections. You can calculate a percentage of the collection based on custom logic.
-    `   
+       
 
         $collection = new $collection([
             ['name' => 'Taylor', 'foo' => 'foo'],
@@ -23,7 +23,7 @@
             ['name' => 'Jess', 'foo' => 'baz'],
         ]);
         $collection->percentage(fn ($value) => $value['foo'] === 'foo'); // 25.00
-    `
+    
 
 ## Laravel 10.19
  - toRawSql, dumpRawSql, ddRawSql
