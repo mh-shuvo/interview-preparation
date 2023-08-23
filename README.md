@@ -4,7 +4,7 @@
    - [OOP](./oop/index.md)
    - DTO
 ## 2. Laravel
-   - Version Changes
+   - [Version Changes](./laravel/release_notes.md)
    - Bootstrap.php
    - Request Life Cycle
    - Service Provider & Service Container
