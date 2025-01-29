@@ -41,6 +41,9 @@
    - High order function
 ## 6. Design Principles
    - SOLID
+   - DRY
+   - KISS
+   - YAGNI
 ## 7. Design Patterns
    - Singleton
    - Factory

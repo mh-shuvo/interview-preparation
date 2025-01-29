@@ -5,7 +5,7 @@ Indexing works by creating a separate data structure that organizes and stores a
 
 Here's how indexing works step by step:
 
-Index Creation: When you create an index on a column or set of columns, the DBMS generates an index data structure. The type of data structure used depends on the type of index (e.g., B-tree, hash, bitmap).
+- `Index Creation:` When you create an index on a column or set of columns, the DBMS generates an index data structure. The type of data structure used depends on the type of index (e.g., B-tree, hash, bitmap).
 
 - `Data Mapping:` The index contains a mapping between the values in the indexed column(s) and the locations (usually row identifiers or pointers) of the corresponding rows in the actual table.
 
